@@ -2,6 +2,7 @@ define(function(require, exports, module) {
 
     // placeholder
     // --------
+    //test for me
     // 针对不支持placeholder的浏览器做的模拟支持
     // Thanks to
     // - https://github.com/mathiasbynens/jquery-placeholder
